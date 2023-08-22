@@ -22,5 +22,3 @@
 Вероятность возникновения дефекта (Defect Probability);
 Приоритет дефекта (Defect Priority);
 Автор отчета (Reported By);
-Назначено на (Assigned To);
-Статус (Status).
